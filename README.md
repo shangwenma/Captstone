@@ -32,6 +32,8 @@ $ git commit - m "<$comments$>" # shown the file that motified
   
 $ git push <$local name$> # put user name and token(PAT)
 
+Create PAT:https://itsmycode.com/support-for-password-authentication-was-removed-github/
+
 ## Remove a file
 $ git rm <$filename$> 
   
