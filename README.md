@@ -16,7 +16,7 @@ $ git pull -v # verify
 ## Upload a file
 #cp file to github respitory
 
-$ git add <filename>$ # must in the github directory
+$ git add $<$filename$>$ # must in the github directory
   
 $ git commit - m "<comments>" # shown the file that motified
   
