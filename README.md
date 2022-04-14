@@ -12,6 +12,7 @@ $ git config --global credential.helper cache # remembers the token
 
 $ git pull -v # verify
 
+ref:https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
 ## Upload a file
 #cp file to github respitory
