@@ -18,13 +18,13 @@ $ git pull -v # verify
 
 $ git add <$filename$> # must in the github directory
   
-$ git commit - m "<comments>" # shown the file that motified
+$ git commit - m "<$comments$>" # shown the file that motified
   
-$ git push <local name> # put user name and token(PAT)
+$ git push <$local name$> # put user name and token(PAT)
 
 ## Remove a file
-$git rm <filename> 
+$git rm <$filename$> 
   
-$ git commit - m "<comments>" # shown the file that motified
+$ git commit - m "<$comments$>" # shown the file that motified
   
-$ git push <local name> # put user name and token(PAT)
+$ git push <$local name$> # put user name and token(PAT)
