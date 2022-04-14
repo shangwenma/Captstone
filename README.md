@@ -14,8 +14,17 @@ $ git pull -v # verify
 
 ref:https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
 
+## Remote repository
+$ git remote -v # check origin repository name
+
+$ git remote remove <$repository name$> #remove old remote
+
+$ git remote add <$repository name$> https://github.com/YOUR-USERNAME/YOUR-REPOSITORY # add remote
+
+$ git push <$repository name$> main # push new repository to github
+
 ## Upload a file
-#cp file to github respitory
+#cp file to github repository
 
 $ git add <$filename$> # must in the github directory
   
